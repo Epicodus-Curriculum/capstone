@@ -15,7 +15,7 @@ code_reviews:
     due_time: "17:00"
     submissions_not_required: false
     always_visible: false
-    details:
+  details:
       - title: Placeholder
       filename: https://github.com/epicodus-classroom/internship/blob/main/linkedin_review.md
       objectives:

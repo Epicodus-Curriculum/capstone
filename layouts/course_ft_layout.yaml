@@ -17,7 +17,8 @@ code_reviews:
     submissions_not_required: false
     always_visible: false
   details:
-      - title: Placeholder
-      filename: https://github.com/epicodus-classroom/internship/blob/main/linkedin_review.md
-      objectives:
-      - "placeholder"
+    - title: Placeholder
+    visible_class_week: 1
+    filename: https://github.com/epicodus-classroom/internship/blob/main/linkedin_review.md
+    objectives:
+    - "placeholder"
