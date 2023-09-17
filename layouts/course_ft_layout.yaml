@@ -21,6 +21,6 @@ code_reviews:
   details:
     - title: Placeholder
       visible_class_week: 1
-      filename: https://github.com/epicodus-classroom/internship/blob/main/linkedin_review.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/shared/team_week_cr.md
       objectives:
       - "placeholder"
