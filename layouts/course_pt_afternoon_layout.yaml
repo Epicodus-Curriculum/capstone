@@ -1,0 +1,23 @@
+---
+part_time: false
+internship: true
+number_of_weeks: 18
+class_times:
+  Monday: 13:00-17:00
+  Tuesday: 13:00-17:00
+  Wednesday: 13:00-17:00
+  Thursday: 13:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Placeholder
+      visible_class_week: 1
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/shared/team_week_cr.md
+      objectives:
+      - "placeholder"
