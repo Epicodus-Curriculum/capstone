@@ -1,6 +1,6 @@
 ---
 part_time: false
-internship: true
+internship: false
 number_of_weeks: 9
 class_times:
   Monday: 8:00-17:00
