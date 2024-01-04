@@ -3,3 +3,7 @@ order: 7
 repo: capstone
 directory: 7_capstone-week-7
 lessons:
+  - title: Test
+    filename: test-lesson.md
+    day: weekend
+    type: lesson
