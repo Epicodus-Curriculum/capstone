@@ -1,0 +1,13 @@
+title: Capstone
+show_weeks_and_days: true
+homepage: index.md
+sections:
+  - ft_1_capstone.yaml
+  - ft_2_capstone.yaml
+  - ft_3_capstone.yaml
+  - ft_4_capstone.yaml
+  - ft_5_capstone.yaml
+  - ft_6_capstone.yaml
+  - ft_7_capstone.yaml
+  - ft_8_capstone.yaml
+  - ft_9_capstone.yaml
