@@ -12,7 +12,7 @@ lessons:
     filename: test-lesson.md
     day: weekend
     type: lesson
-  - title: Computer Science - Section Expectations
+  - title: Computer Science Section Expectations
     filename: cs_content_overview.md
     day: weekend
     type: lesson
@@ -33,7 +33,7 @@ lessons:
     filename: 1_big_o.md
     day: monday
     type: lesson
-  - title: Utilizing Big O Notation - Practice
+  - title: Utilizing Big O Notation Practice
     filename: 2_big_o_practice.md
     day: monday
     type: exercise
@@ -41,23 +41,23 @@ lessons:
     filename: 1_general_tree_data_structure.md
     day: monday
     type: lesson
-  - title: Binary Search Trees - Introduction
+  - title: Binary Search Trees Introduction
     filename: 2_binary_tree_data_structure.md
     day: monday
     type: lesson 
-  - title: Binary Search Trees - Part 1
+  - title: Binary Search Trees Part 1
     filename: 3_binary_search_trees_part_1.md
     day: monday
     type: lesson
-  - title: Binary Search Trees - Part 2
+  - title: Binary Search Trees Part 2
     filename: 4_binary_search_trees_part_2.md
     day: monday
     type: lesson 
-  - title: Binary Search Trees - Part 3
+  - title: Binary Search Trees Part 3
     filename: 5_binary_search_trees_part_3.md
     day: monday
     type: lesson
-  - title: Binary Search Trees - Practice
+  - title: Binary Search Trees Practice
     filename: 6_binary_search_tree_practice.md
     day: monday
     type: exercise 
@@ -71,11 +71,11 @@ lessons:
     filename: 2_representing_graph_structures_with_code.md
     day: tuesday
     type: lesson
-  - title: Building Graphs - Part 1
+  - title: Building Graphs Part 1
     filename: 3_building_graphs_part_1.md
     day: tuesday
     type: lesson
-  - title: Building Graphs - Part 2
+  - title: Building Graphs Part 2
     filename: 4_building_graphs_part_2.md
     day: tuesday
     type: lesson
@@ -95,7 +95,7 @@ lessons:
     filename: 8_breadth_first_algorithm.md
     day: tuesday
     type: lesson
-  - title: Graph Theory - Practice
+  - title: Graph Theory Practice
     filename: 9_graph_theory_practice.md
     day: tuesday
     type: exercise 
@@ -113,7 +113,7 @@ lessons:
     filename: 3_manipulating_bits.md
     day: wednesday
     type: lesson
-  - title: Bit Manipulation - Practice
+  - title: Bit Manipulation Practice
     filename: 4_bit_manipulation_problems.md
     day: wednesday
     type: exercise
@@ -125,7 +125,7 @@ lessons:
     filename: 2_optimizing_hashing_algorithms.md
     day: wednesday
     type: lesson
-  - title: Hashes - Practice
+  - title: Hashes Practice
     filename: 3_hash_problems.md
     day: wednesday
     type: exercise 
