@@ -58,7 +58,7 @@ lessons:
     day: monday
     type: lesson
   - title: Binary Search Trees - Practice
-    filename: 6_binary_search_trees_practice.md
+    filename: 6_binary_search_tree_practice.md
     day: monday
     type: exercise 
 
