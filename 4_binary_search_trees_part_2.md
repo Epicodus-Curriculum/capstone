@@ -106,7 +106,7 @@ bst
 
 We can then look at the BST object:
 
-<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/computer-science-curriculum-2020/BST_object.png" alt="A screenshot of the fully-expanded BST object in the console." style="width:50%"/>
+![A screenshot of the fully-expanded BST object in the console.](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/computer-science-curriculum-2020/BST_object.png)
 
 As you can see, the `BST` object's `root` property holds the entire binary search tree. It's a series of deeply nested objects, with each parent node containing information about its child nodes.
 
