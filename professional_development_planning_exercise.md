@@ -4,7 +4,7 @@
 ## Time to Create Your Plan!
 
 
-Now that you've had a chance to review the [previous lesson on Professional Development](), it's time that we create our plan. This plan will be due by the end of the class period.
+Now that you've had a chance to review the [previous lesson on Professional Development](learnhowtoprogram.com), it's time that we create our plan. This plan will be due by the end of the class period.
 
 
 Please keep in mind that your plan doesn't need to be complete, nor does it need to be perfect. We just want to get a general idea of what you're thinking of approaching, and how you'll approach your study during the next section.
