@@ -52,7 +52,7 @@ Here are some skills that a Back-End Developer might want to harness, and how yo
 
 * Data analysis
 * User data storage security/DB security
-* SaaS (such as AWS)
+* SaaS (such as AWS): Software as a Service (SaaS) is a cloud computing model in which software applications are hosted and provided to customers over the internet. As a developer, it's likely that you'll encounter using these services. For example, Epicodus uses AWS S3 buckets to store our images. 
 * Content Management Systems
 * Cloud Computing (AWS/Azure/Etc.)
 * Containers (Docker/Kubernetes/Etc.)
