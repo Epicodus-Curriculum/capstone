@@ -4,12 +4,12 @@ repo: capstone
 directory: 1_capstone-week-1
 lessons:
 # Weekend
-  - title: Goal Settings and Expectations
-    filename: test-lesson.md
+  - title: Goal Setting and Expectations
+    filename: 1_goal_settings_and_expectations.md
     day: weekend
     type: lesson
   - title: Lesson and Exercise Expectations
-    filename: test-lesson.md
+    filename: 1_lesson_and_exercise_expectations.md
     day: weekend
     type: lesson
   - title: Computer Science Section Expectations
@@ -20,13 +20,31 @@ lessons:
     filename: computer_science_testing_environment.md
     day: weekend
     type: lesson
+  - title: Professional Development - Employable Skills
+    filename: employable-skills.md
+    day: weekend
+    type: lesson
+  - title: Professional Development - Archetypes
+    filename: professional_development_planning_archetypes.md
+    day: weekend
+    type: lesson
+  - title: Professional Development - Planning
+    filename: professional_development_planning.md
+    day: weekend
+    type: lesson
+
 # Monday
+
+  - title: Professional Development Plan - Exercise
+    filename: professional_development_planning_exercise.md
+    day: monday
+    type: exercise
   - title: 'Recap: Whiteboarding Best Practices'
-    filename: test-lesson.md
+    filename: whiteboarding_recap.md
     day: monday
     type: lesson
   - title: 'Recap: Recursion'
-    filename: test-lesson.md
+    filename: recursion_recap.md
     day: monday
     type: lesson
   - title: Introduction to Big O Notation
@@ -146,7 +164,7 @@ lessons:
   - title: Selection Sort
     filename: selection_sort.md
     day: thursday
-    type: exercise
+    type: lesson
   - title: Bubble Sort
     filename: bubble_sort.md
     day: thursday
@@ -158,5 +176,29 @@ lessons:
   - title: Quicksort
     filename: quick_sort.md
     day: thursday
-    type: exercise 
+    type: lesson 
+  - title: Linked Lists
+    filename: linked_lists.md
+    day: thursday
+    type: lesson 
+  - title: Linked Lists - Exercise
+    filename: linked_lists_exercise.md
+    day: thursday
+    type: exercise
+  - title: Heaps
+    filename: heaps.md
+    day: thursday
+    type: lesson
+  - title: Tries
+    filename: tries.md
+    day: thursday
+    type: lesson
+  - title: Memory Basics
+    filename: memory_basics.md
+    day: thursday
+    type: lesson
+  - title: Memoization
+    filename: memoization.md
+    day: thursday
+    type: lesson
 # Friday
