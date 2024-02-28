@@ -21,7 +21,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Professional Development - Employable Skills
-    filename: employable-skills.md
+    filename: employable_skills.md
     day: weekend
     type: lesson
   - title: Professional Development - Archetypes
