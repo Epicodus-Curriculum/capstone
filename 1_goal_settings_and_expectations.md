@@ -10,7 +10,7 @@ This capstone course focuses on three major topics:
 
 2. **Self-Guided Professional Development Planning**: You'll have the opportunity to explore topics independently that are highly sought after in today's job market. Whichever topics you choose to explore will be informed by your future goals. For example, if you're interested in design and the front-end of applications, you might deep dive into accessible design, mobile-first development, and UX/UI best practices. 
 
-3. **Collaboration Week**: Much like Team week, you will be given an opportunity to collaborate with others in the class. You'll all be able to bring the skills that you've been slowly researching to the table and get a chance to share your expterise with iothers,.
+3. **Collaboration Week**: Much like Team week, you will be given an opportunity to collaborate with others in the class. You'll be able to bring the skills that you've been researching to the table and share your expertise with others.
 
 4. **Capstone Creation**: Your culminating project will be the creation of a personal portfolio that showcases your skills and knowledge acquired throughout this and every previous course. This project might integrate elements from both data structures and algorithms and your self-guided professional development, but most importantly should align with what you are interested in pursuing. You should already have a proposed capstone idea by the time you're reading this lesson.
 
