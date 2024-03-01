@@ -3,7 +3,9 @@ order: 3
 repo: capstone
 directory: 3_capstone-week-3
 lessons:
-  - title: Test
-    filename: test-lesson.md
-    day: weekend
-    type: lesson
+  - title: 'Applying to Jobs - 3'
+    filename:  applying_to_jobs_new.md
+    day: friday
+    type: exercise
+    repo: career-services-full-stack
+ 
