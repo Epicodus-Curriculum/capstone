@@ -3,7 +3,8 @@ order: 9
 repo: capstone
 directory: 9_capstone-week-9
 lessons:
-  - title: Test
-    filename: test-lesson.md
+  - title: "After Your Internship"
+    filename: after_your_internship.md
     day: weekend
     type: lesson
+    repo: career-services-full-stack
