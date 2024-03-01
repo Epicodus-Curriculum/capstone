@@ -28,7 +28,7 @@ Here's an overview of what we'll cover in this course:
 * Hash Tables
 * Hash Algorithms
 
-### Section 4: Algorithms
+### Section 4: Algorithms, Additional Data Structures, and Key Concepts
 
 * Binary Search
 * Insertion Sort
@@ -36,9 +36,6 @@ Here's an overview of what we'll cover in this course:
 * Bubble Sort
 * Merge Sort
 * Quicksort
-
-### Section 5: Additional Data Structures and Key Concepts
-
 * Linked Lists
 * Tries and Heaps
 * Memory Basics

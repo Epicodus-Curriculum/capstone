@@ -12,7 +12,7 @@ This capstone course focuses on three major topics:
 
 3. **Collaboration Week**: Much like Team week, you will be given an opportunity to collaborate with others in the class. You'll be able to bring the skills that you've been researching to the table and share your expertise with others.
 
-4. **Capstone Creation**: Your culminating project will be the creation of a personal portfolio that showcases your skills and knowledge acquired throughout this and every previous course. This project might integrate elements from both data structures and algorithms and your self-guided professional development, but most importantly should align with what you are interested in pursuing. You should already have a proposed capstone idea by the time you're reading this lesson.
+4. **Capstone Creation**: Your culminating project will be the creation of a personal portfolio piece that showcases your skills and knowledge acquired throughout this and every previous course. This project might integrate elements from both data structures and algorithms and your self-guided professional development, but most importantly should align with what you are interested in pursuing. You should already have a proposed capstone idea by the time you're reading this lesson.
 
 ## Expectations
 
