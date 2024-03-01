@@ -42,10 +42,6 @@ lessons:
     day: weekend
     type: lesson
     repo: shared-full-stack
-  - title: Hosting a MySQL database and ASP.NET Core API or Web App on Azure
-    filename: 6_hosting_mvc_sql_database_azure.md
-    day: weekend
-    type: lesson
   - title: "Ranking Internship Companies"
     filename: 2_classwork_ranking_internship_companies.md
     day: thursday
