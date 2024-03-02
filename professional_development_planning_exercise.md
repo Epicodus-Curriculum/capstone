@@ -4,7 +4,7 @@
 ## Time to Create Your Plan!
 
 
-Now that you've had a chance to review the [previous lesson on Professional Development](https://full-time.learnhowtoprogram.com/capstone/capstone-week-1/professional-development---planning), it's time that we create our plan. This plan will be due by the end of the class period.
+Now that you've had a chance to review the [previous lesson on Professional Development](/capstone/capstone-week-1/professional-development---planning), it's time that we create our plan. This plan will be due by the end of the class period.
 
 
 Please keep in mind that your plan doesn't need to be complete, nor does it need to be perfect. We just want to get a general idea of what you're thinking of approaching, and how you'll approach your study during the next section.
@@ -16,7 +16,7 @@ Utilize the previous lesson to scaffold what things to consider. In addition, yo
 ### Step One - Self-assessment
 
 
-Review the lesson [identifying your skills](https://full-time.learnhowtoprogram.com/career-services/applying-for-internships-and-jobs/identifying-your-skills-strengths-and-weaknesses), strengths, and weaknesses.
+Review the lesson [identifying your skills](/career-services/applying-for-internships-and-jobs/identifying-your-skills-strengths-and-weaknesses), strengths, and weaknesses.
 
 
 You may wish to:

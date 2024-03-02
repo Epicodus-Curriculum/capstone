@@ -18,7 +18,7 @@ If you are still undecided by the sign up deadline, reach out and let your instr
 
 ### Capstone Project Proposal
 
-You will complete your project proposal (using the template below) and turn it in as part of your Professional Development section's second week code review. You are welcome to work on this early, if you are able. Make sure to review the homework on [Minimum Viable Products](/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) before drafting your proposal. Knowledge of MVPs will be required to complete the questions in the template.
+You will complete your project proposal (using the template below) and turn it in as part of your Professional Development section's second week code review. You are welcome to work on this early, if you are able. Make sure to review the homework on [Minimum Viable Products](/capstone/capstone-week-2/capstones---the-mvp) before drafting your proposal. Knowledge of MVPs will be required to complete the questions in the template.
 
 Double-check your work for spelling, typos and punctuation, and use professional language and technical terms as you would in a project proposal completed for a supervisor or manager. 
 
@@ -28,7 +28,7 @@ Double-check your work for spelling, typos and punctuation, and use professional
 
     *  Due date: For full-time and part-time students, this is due during the first week of the Professional Development course section.
 
-* **Capstone Proposal**:  You are required to submit a project proposal outlining your MVP (minimum viable product) for the second week of Professional Development code review. More information, including the proposal form may be found [here](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal).
+* **Capstone Proposal**:  You are required to submit a project proposal outlining your MVP (minimum viable product) for the second week of Professional Development code review. More information, including the proposal form may be found [here](/capstone/capstone-week-2/capstones---sign-ups-and-proposal).
 
     *  Due date: For full-time and part-time students, this will be turned in as part of your Professional Development's second week code review. 
 
@@ -63,7 +63,7 @@ Double-check your work for spelling, typos and punctuation, and use professional
 
 
 
-**If you finish developing the [minimum viable product (MVP)](/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) with time to spare, what will you work on next? Describe these features here: Be specific.**
+**If you finish developing the [minimum viable product (MVP)](/capstone/capstone-week-2/capstones---the-mvp) with time to spare, what will you work on next? Describe these features here: Be specific.**
 
 
 * 
