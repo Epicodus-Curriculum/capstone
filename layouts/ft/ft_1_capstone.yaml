@@ -39,14 +39,6 @@ lessons:
     filename: professional_development_planning_exercise.md
     day: monday
     type: exercise
-  - title: 'Recap: Whiteboarding Best Practices'
-    filename: whiteboarding_recap.md
-    day: monday
-    type: lesson
-  - title: 'Recap: Recursion'
-    filename: recursion_recap.md
-    day: monday
-    type: lesson
   - title: Introduction to Big O Notation
     filename: 1_big_o.md
     day: monday

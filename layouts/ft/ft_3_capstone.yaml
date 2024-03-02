@@ -3,9 +3,20 @@ order: 3
 repo: capstone
 directory: 3_capstone-week-3
 lessons:
+ - title: 'Self-Exploration Week 2 Expectations'
+    filename: self_exploration_week_2.md
+    day: weekend
+    type: lesson
+  - title: 'Whiteboarding Practice - Week 2'
+    filename: whiteboarding_prompt_2.md
+    day: monday
+    type: exercise
+  - title: "Capstone - Proposal and MVP Submission"
+    filename: capstone_proposal_submission.md
+    day: friday
+    type: exercise
   - title: 'Applying to Jobs - 3'
     filename:  applying_to_jobs_new.md
     day: friday
     type: exercise
     repo: career-services-full-stack
- 

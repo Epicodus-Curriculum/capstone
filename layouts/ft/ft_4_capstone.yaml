@@ -3,7 +3,15 @@ order: 4
 repo: capstone
 directory: 4_capstone-week-4
 lessons:
+ - title: 'Self-Exploration Week 3 Expectations'
+    filename: self_exploration_week_3.md
+    day: weekend
+    type: lesson
   - title: Test
     filename: test-lesson.md
     day: weekend
     type: lesson
+  - title: 'Whiteboarding Practice - Week 3'
+    filename: whiteboarding_prompt_3.md
+    day: monday
+    type: exercise

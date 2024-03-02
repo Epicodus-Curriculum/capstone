@@ -3,8 +3,20 @@ order: 9
 repo: capstone
 directory: 9_capstone-week-9
 lessons:
+  - title: 'Capstone Week 3 Expectations'
+    filename: capstone_week_3.md
+    day: weekend
+    type: lesson
   - title: "After Your Internship"
     filename: after_your_internship.md
     day: weekend
     type: lesson
     repo: career-services-full-stack
+  - title: 'Whiteboarding Practice - Week 7'
+    filename: whiteboarding_prompt_7.md
+    day: monday
+    type: exercise
+  - title: 'Capstone Project Submission'
+    filename: capstone_independent_project_submission.md
+    day: thursday
+    type: exercise

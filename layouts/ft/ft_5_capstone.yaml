@@ -3,13 +3,20 @@ order: 5
 repo: capstone
 directory: 5_capstone-week-5
 lessons:
+ - title: 'Self-Exploration Week 4 Expectations'
+    filename: self_exploration_week_4.md
+    day: weekend
+    type: lesson
   - title: 'Team Week: Project Pitch'
     filename: team_week_capstone_prep.md
     day: weekend
     type: lesson
+    repo: career-services-full-stack
+  - title: 'Whiteboarding Practice - Week 4'
+    filename: whiteboarding_prompt_4.md
+    day: monday
+    type: exercise
   - title: 'Applying to Jobs - 3'
     filename:  applying_to_jobs_new.md
     day: friday
     type: exercise
-    repo: career-services-full-stack
- 
