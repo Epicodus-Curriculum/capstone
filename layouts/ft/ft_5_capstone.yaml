@@ -3,7 +3,7 @@ order: 5
 repo: capstone
 directory: 5_capstone-week-5
 lessons:
- - title: 'Self-Exploration Week 4 Expectations'
+  - title: 'Self-Exploration Week 4 Expectations'
     filename: self_exploration_week_4.md
     day: weekend
     type: lesson
