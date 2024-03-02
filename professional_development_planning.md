@@ -12,7 +12,7 @@ We’re going to do this by teaching you how to make a professional development 
 
 ### Step One - Self-assessment
 
-Early in the program, you completed a lesson on [identifying your skills](https://full-time.learnhowtoprogram.com/career-services/applying-for-internships-and-jobs/identifying-your-skills-strengths-and-weaknesses), strengths, and weaknesses. This is a great time to revisit that. You can use the existing assignment as a great jumping off point to reflect on all the work you’ve done to build both technical and non-technical skills throughout the program. It isn’t necessary to do an entirely new SWOT analysis, but it’s a good idea to note down what areas still feel like good opportunities for growth. 
+Early in the program, you completed a lesson on [identifying your skills](/career-services/applying-for-internships-and-jobs/identifying-your-skills-strengths-and-weaknesses), strengths, and weaknesses. This is a great time to revisit that. You can use the existing assignment as a great jumping off point to reflect on all the work you’ve done to build both technical and non-technical skills throughout the program. It isn’t necessary to do an entirely new SWOT analysis, but it’s a good idea to note down what areas still feel like good opportunities for growth. 
 
 ### Step Two - Identify Skills Relevant to Your Career
 

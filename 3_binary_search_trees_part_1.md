@@ -1,6 +1,6 @@
 In the last lesson, we learned about binary tree and binary search tree data structures. Over the next several lessons, we'll build an application that creates a binary search tree from scratch. We'll also learn how to search this BSTs in the process.
 
-To get started, use the basic testing structure described in the [Computer Science Testing Environment](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/computer-science-testing-environment) lesson.
+To get started, use the basic testing structure described in the [Computer Science Testing Environment](/capstone/capstone-week-1/computer-science-testing-environment-setup) lesson.
 
 ## Creating a Node
 

@@ -1,4 +1,4 @@
-Let's start building our application now using the testing structure from the [Computer Science Testing Environment](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/computer-science-testing-environment) lesson.
+Let's start building our application now using the testing structure from the [Computer Science Testing Environment](/capstone/capstone-week-1/computer-science-testing-environment-setup) lesson.
 
 We are going to keep this application very simple. In fact, our nodes will just be strings. That way, we can focus entirely on building a `Graph` class without worrying about a `Node` class.
 

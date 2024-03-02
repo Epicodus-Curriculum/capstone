@@ -22,11 +22,11 @@ Keep the following deadlines in mind. You’ll receive more information about ea
 
     *  Due date: For full-time and part-time students, this is due during the first week of the Professional Development course section.
 
-* **Capstone Proposal**:  You are required to submit a project proposal outlining your MVP (minimum viable product) for the second week of Professional Development code review. More information, including the proposal form may be found [here](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal).
+* **Capstone Proposal**:  You are required to submit a project proposal outlining your MVP (minimum viable product) for the second week of Professional Development code review. More information, including the proposal form may be found [here](/capstone/capstone-week-2/capstones---sign-ups-and-proposal).
 
     *  Due date: For full-time and part-time students, this will be turned in as part of your Professional Development's second week code review. 
 
-* **Trade Show**:  Similar to the group projects you've completed in other courses, you are required to pitch and demo your application to your Epicodus classmates during the final class session. More information may be found [here](/react/independent-capstone-part-2/independent-capstone-project-week-overview). This is good practice for pitching your application to potential employers.
+* **Trade Show**:  Similar to the group projects you've completed in other courses, you are required to pitch and demo your application to your Epicodus classmates during the final class session. More information may be found [here](/capstone/capstone-week-2/capstones---future-section-overview). This is good practice for pitching your application to potential employers.
 
     *  Due date: For full-time and part-time students, the trade show happens on the very last day of class. This is also when you will submit your capstone on Epicenter as your final independent project.
 
@@ -62,7 +62,7 @@ Here are a few examples of projects past students have built independently in pa
 * Websites and applications that compile resources into a single, easy-to-navigate spot. Including resources for the homeless, emergency preparation, etc.
 * E-commerce sites for real-life businesses, compete with functionality to make and process orders, and accept payment.  
 
-You will have time during your normally scheduled code review for the second week of Professional Development section (next week!) to complete your capstone proposal. However, you can get started early if you like: start by reviewing the [capstone proposal](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal) lesson for more details on requirements and the proposal template. 
+You will have time during your normally scheduled code review for the second week of Professional Development section (next week!) to complete your capstone proposal. However, you can get started early if you like: start by reviewing the [capstone proposal](/capstone/capstone-week-2/capstones---sign-ups-and-proposal) lesson for more details on requirements and the proposal template. 
 
 ### FAQ
 

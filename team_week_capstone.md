@@ -1,7 +1,7 @@
 **You're a team and you're building something awesome!**
 
 
-This Team Week will be a little bit different from the Team Weeks of previous sections. As you've been working towards your Professional Development and utilizing [your plan](https://full-time.learnhowtoprogram.com/capstone/capstone-week-1/professional-development---planning), you've started to differentiate yourself from your peers by pursuing what you yourself find interesting.
+This Team Week will be a little bit different from the Team Weeks of previous sections. As you've been working towards your Professional Development and utilizing [your plan](/capstone/capstone-week-1/professional-development---planning), you've started to differentiate yourself from your peers by pursuing what you yourself find interesting.
 
 
 Now that we're coming back together in teams, you have the opportunity to specialize in a role that focuses on the items you've been learning. Additionally, in collaboration, every student will be able to share what they've learned, and provide support to each other in ways that only an individual student can.
