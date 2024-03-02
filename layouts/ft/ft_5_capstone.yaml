@@ -17,6 +17,6 @@ lessons:
     day: monday
     type: exercise
   - title: 'Applying to Jobs - 3'
-    filename:  applying_to_jobs_new.md
+    filename: applying_to_jobs_new.md
     day: friday
     type: exercise

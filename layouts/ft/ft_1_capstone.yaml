@@ -202,7 +202,7 @@ lessons:
     type: exercise
     repo: career-services-full-stack
   - title: 'Applying to Jobs - 2'
-    filename:  applying_to_jobs_new.md
+    filename: applying_to_jobs_new.md
     day: friday
     type: exercise
     repo: career-services-full-stack
