@@ -3,7 +3,11 @@ order: 8
 repo: capstone
 directory: 8_capstone-week-8
 lessons:
-  - title: Test
-    filename: test-lesson.md
+  - title: 'Capstone Week 2 Expectations'
+    filename: capstone_week_2.md
     day: weekend
     type: lesson
+  - title: 'Whiteboarding Practice - Week 6'
+    filename: whiteboarding_prompt_6.md
+    day: monday
+    type: exercise

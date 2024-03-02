@@ -3,7 +3,45 @@ order: 2
 repo: capstone
 directory: 2_capstone-week-2
 lessons:
-  - title: Test
-    filename: test-lesson.md
+  - title: 'Self-Exploration Week 1 Expectations'
+    filename: self_exploration_week_1.md
     day: weekend
     type: lesson
+  - title: 'Capstones - Future Section Overview'
+    filename: capstone_section_overview.md
+    day: weekend
+    type: lesson
+  - title: 'Capstones - Timeline, Deadlines, and Homework'
+    filename: capstone_brainstorming.md
+    day: weekend
+    type: lesson
+  - title: 'Capstones - The MVP'
+    filename: capstone_mvp.md
+    day: weekend
+    type: lesson
+  - title: 'Capstones - Sign Ups and Proposal'
+    filename: capstone_sign_up_proposal.md
+    day: weekend
+    type: lesson
+  - title: 'Capstones - Preparing Your Pitch'
+    filename: capstone_preparing_pitch.md
+    day: weekend
+    type: lesson
+  - title: 'Recap: Whiteboarding Best Practices'
+    filename: whiteboarding_recap.md
+    day: weekend
+    type: lesson
+  - title: 'Recap: Recursion'
+    filename: recursion_recap.md
+    day: weekend
+    type: lesson
+    # Monday
+  - title: 'Whiteboarding Practice - Week 1'
+    filename: whiteboarding_prompt_1.md
+    day: monday
+    type: exercise
+  # - title: 'Professional DOMOREHERE'
+  #   filename: whiteboarding_prompt_1.md
+  #   day: monday
+  #   type: exercise
+    
