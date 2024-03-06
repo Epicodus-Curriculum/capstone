@@ -10,7 +10,7 @@ Write a function that looks at a number's binary representation to determine if 
 
 Paris, a nonbinary princex, is searching all the kingdoms of the land to find another nonbinary princex to marry. To find the right match, Paris's advisors have used the Myers-Briggs test to try to find the best fit. (**Note:** We are not advocating for the Myers-Briggs test in any way — it just lends itself nicely to being written as binary code.) This test looks at four qualities:
 
-* Extraversion versus Information
+* Extraversion versus Introversion
 * Sensing versus Intuition
 * Thinking versus Feeling
 * Judgment versus Perception
