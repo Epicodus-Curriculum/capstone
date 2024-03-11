@@ -5,35 +5,35 @@ directory: 2_capstone-week-2
 lessons:
   - title: 'Self-Exploration Week 1 Expectations'
     filename: self_exploration_week_1.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Capstones - Future Section Overview'
     filename: capstone_section_overview.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Capstones - Timeline, Deadlines, and Homework'
     filename: capstone_brainstorming.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Capstones - The MVP'
     filename: capstone_mvp.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Capstones - Sign Ups and Proposal'
     filename: capstone_sign_up_proposal.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Capstones - Preparing Your Pitch'
     filename: capstone_preparing_pitch.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Recap: Whiteboarding Best Practices'
     filename: whiteboarding_recap.md
-    day: weekend
+    day: monday
     type: lesson
   - title: 'Recap: Recursion'
     filename: recursion_recap.md
-    day: weekend
+    day: monday
     type: lesson
     # Monday
   - title: 'Whiteboarding Practice - Week 1'
