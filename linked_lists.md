@@ -362,16 +362,16 @@ There's no 9th position in this linked list. Once we verify the test is properly
 
 ```js
 remove(indexToRemove) {
-  if (index === 0) {
+  if (indexToRemove === 0) {
     this.head = this.head.next;
   } else {
     let currentNode = this.head;
     let currentIndex = 0;
-    while ((currentIndex +1 ) <= index) {
+    while ((currentIndex +1 ) <= indexToRemove) {
       if (currentNode.next === null ) {
         return -1;
       }
-      if ((currentIndex + 1) === index) {
+      if ((currentIndex + 1) === indexToRemove) {
         currentNode.next = currentNode.next.next;
         break;
       }
