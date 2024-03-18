@@ -5,7 +5,15 @@ directory: 3_capstone-week-3
 lessons:
   - title: 'Self-Exploration Week 2 Expectations'
     filename: self_exploration_week_2.md
-    day: weekend
+    day: monday
+    type: lesson
+  - title: 'Recap: Whiteboarding Best Practices'
+    filename: whiteboarding_recap.md
+    day: monday
+    type: lesson
+  - title: 'Recap: Recursion'
+    filename: recursion_recap.md
+    day: monday
     type: lesson
   - title: 'Whiteboarding Practice - Week 2'
     filename: whiteboarding_prompt_2.md
