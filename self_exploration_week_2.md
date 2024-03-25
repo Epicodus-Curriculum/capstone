@@ -1,4 +1,4 @@
-## Self Exploration Section Expectations - Week 1
+## Self Exploration Section Expectations - Week 2
 ---
 Welcome to the second week of Professional Development. During this week, you will continue following along with the plan that you made during the [Professional Development Planning](https://full-time.learnhowtoprogram.com/capstone/capstone-week-1/professional-development---planning) section.
 
