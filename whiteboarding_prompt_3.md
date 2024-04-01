@@ -1,4 +1,4 @@
-## Whiteboarding Practice - Week 2
+## Whiteboarding Practice - Week 3
 
 Every week during the final two months of the Capstone course, you and your peers will perform a whiteboarding prompt. This will be performed either in front of your peers, or have your instructor join to provide feedback directly. 
 
