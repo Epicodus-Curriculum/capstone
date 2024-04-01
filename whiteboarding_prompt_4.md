@@ -145,7 +145,8 @@ Output: [[7,4,1],[8,5,2],[9,6,3]]
 
 <p>Here is an example implemenation</p>
 
-<pre><code>function rotate(matrix) {
+```javascript
+function rotate(matrix) {
     const n = matrix.length;
 
     // Iterate through each layer of the matrix
@@ -166,6 +167,6 @@ Output: [[7,4,1],[8,5,2],[9,6,3]]
         }
     }
 }
-</code></pre>
+```
 
 </details>
