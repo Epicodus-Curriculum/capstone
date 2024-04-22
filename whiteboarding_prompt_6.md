@@ -61,9 +61,8 @@ Output: 5 -> 4 -> 3 -> 2 -> 1
 
 ---
 
-#### Word Break
+#### Valid Sudoku
 
-Valid Sudoku
 Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
 
 - Each row must contain the digits 1-9 without repetition.
